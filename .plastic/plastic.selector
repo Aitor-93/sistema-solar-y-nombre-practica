@@ -1,0 +1,4 @@
+repository "sistema solar y nombre practica/sistema solar y nombre practica@1375829706321@cloud"
+  path "/"
+    br "/main"
+    co "/main"
